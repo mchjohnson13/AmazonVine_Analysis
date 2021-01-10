@@ -4,7 +4,7 @@ Amazon has a Vine program where members are paid to give reviews of products. A 
   
 The purpose of this analysis was to determine if there is a bias in Vine members to give a 5-star review.  
   
-The analysis was performed on a baby product. By
+The analysis was performed on a baby product.
 ## Results
 !['5-star-reviews_analysis.PNG'](./Resources/5-star-review_analysis.PNG)
 * The total number of Vine member reivews in this dataset was 463, and non-Vine members was 25,094.
